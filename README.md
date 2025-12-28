@@ -1,3 +1,20 @@
+<img src="coderaiimg.png" width="100%" alt="Coder AI">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ```markdown
 # Code Generation AI
 
@@ -60,3 +77,4 @@ Fork, create branch, PR. Issues welcome.
 ## License
 MIT
 ```
+
